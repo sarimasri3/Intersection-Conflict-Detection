@@ -110,8 +110,8 @@ The repository is organized as follows:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone https://github.com/sarimasri3/Intersection-Conflict-Detection.git
+   cd Intersection-Conflict-Detection
    ```
 
 2. **Create a virtual environment** (optional but recommended):
@@ -292,5 +292,3 @@ To generate:
 ```bash
 pip freeze > requirements.txt
 ```
-
-**Note:** Replace placeholders like `yourusername`, `your-repo`, and `your.email@example.com` with actual values.
