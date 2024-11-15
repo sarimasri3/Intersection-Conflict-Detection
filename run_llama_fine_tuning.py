@@ -3,8 +3,8 @@
 """
 Script to Fine-Tune LLAMA Model using Together AI API
 
-Author: Your Name
-Date: YYYY-MM-DD
+Author: Sari Masri
+Date: 2024-11-15
 """
 
 import os
