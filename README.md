@@ -37,8 +37,6 @@ This paper provides a comprehensive overview of how LLMs can be utilized for eff
 - [License](#license)
 - [Contact](#contact)
 - [Additional Information](#additional-information)
-- [Acknowledgments](#acknowledgments)
-- [Disclaimer](#disclaimer)
 
 ## Introduction
 
