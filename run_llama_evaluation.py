@@ -3,8 +3,8 @@
 """
 Script to Evaluate Fine-Tuned LLAMA Model
 
-Author: Your Name
-Date: YYYY-MM-DD
+Author: Sari Masri
+Date: 2024-11-15
 """
 
 import os
