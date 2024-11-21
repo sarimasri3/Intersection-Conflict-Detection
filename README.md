@@ -14,7 +14,7 @@ For further insights and an in-depth explanation of the methodologies used, refe
 - **Huthaifa I. Ashqar**:  [huthaifa.ashqar@aaup.edu](mailto:huthaifa.ashqar@aaup.edu)
 - **Mohammed Elhenawy**: [mohammed.elhenawy@qut.edu.au](mailto:mohammed.elhenawy@qut.edu.au)
 
-**Preprint Link**: [https://arxiv.org/abs/2408.00948](https://arxiv.org/abs/2408.00948)
+**Preprint Link**: [https://arxiv.org/abs/2411.10869](https://arxiv.org/abs/2411.10869)
 
 This paper provides a comprehensive overview of how LLMs can be utilized for effective traffic management at complex intersections. It details the system's architecture, data collection methods, conflict classification approach, and performance analysis. The research highlights the challenges and solutions in managing urban traffic through AI-driven intersection conflict detection and management systems.
 
