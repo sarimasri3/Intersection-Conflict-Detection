@@ -7,7 +7,7 @@ This project is designed to detect and manage potential conflicts between vehicl
 
 For further insights and an in-depth explanation of the methodologies used, refer to our research paper on this topic:
 
-**Paper Title**: *Leveraging Large Language Models (LLMs) for Traffic Management at Urban Intersections: The Case of Mixed Traffic Scenarios*
+**Paper Title**: *Large Language Models (LLMs) as Traffic Control Systems at Urban Intersections: A New Paradigm*
 
 **Authors**: 
 - **Sari Masri**:  [s.masri3@student.aaup.edu](mailto:s.masri3@student.aaup.edu), [sarimasri3@gmail.com](mailto:sarimasri3@gmail.com)
